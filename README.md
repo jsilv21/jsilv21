@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 😎
+
+- 🌱 I’m currently learning Python, Data Science & Machine Learning
 
 <!--
 **jsilv21/jsilv21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
