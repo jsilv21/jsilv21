@@ -2,7 +2,8 @@
 
 * 🌱 I’m currently learning Python, Data Science & Machine Learning
 * 📫 How to reach me: [[Linkedin]](https://www.linkedin.com/in/johnsilverwood/) [[Email]](mailto:johnksilverwood@gmail.com)
-* ![Codewars](https://www.codewars.com/users/jsilv21/badges/large)
+
+![Codewars](https://www.codewars.com/users/jsilv21/badges/large)
 
 
 <!--
