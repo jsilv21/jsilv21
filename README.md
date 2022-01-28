@@ -2,7 +2,7 @@
 
 * 🌱 I’m currently learning Javascript. 
 *  Prior stuff: Python, Data Science & Machine Learning
-* 📫 How to reach me: [[Linkedin]](https://www.linkedin.com/in/johnsilverwood/) [[Email]](mailto:johnksilverwood@gmail.com)
+* 📫 How to reach me: [[Linkedin]](https://www.linkedin.com/in/johnsilverwood/)
 
 [![Codewars](https://www.codewars.com/users/jsilv21/badges/small)](https://www.codewars.com/users/jsilv21)
 
